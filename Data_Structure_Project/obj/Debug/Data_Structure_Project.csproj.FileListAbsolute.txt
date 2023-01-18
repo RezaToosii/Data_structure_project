@@ -1,0 +1,7 @@
+G:\Sakhteman_dade\Data_Structure_Project\Data_Structure_Project\bin\Debug\Data_Structure_Project.exe.config
+G:\Sakhteman_dade\Data_Structure_Project\Data_Structure_Project\bin\Debug\Data_Structure_Project.exe
+G:\Sakhteman_dade\Data_Structure_Project\Data_Structure_Project\bin\Debug\Data_Structure_Project.pdb
+G:\Sakhteman_dade\Data_Structure_Project\Data_Structure_Project\obj\Debug\Data_Structure_Project.csproj.AssemblyReference.cache
+G:\Sakhteman_dade\Data_Structure_Project\Data_Structure_Project\obj\Debug\Data_Structure_Project.csproj.CoreCompileInputs.cache
+G:\Sakhteman_dade\Data_Structure_Project\Data_Structure_Project\obj\Debug\Data_Structure_Project.exe
+G:\Sakhteman_dade\Data_Structure_Project\Data_Structure_Project\obj\Debug\Data_Structure_Project.pdb
